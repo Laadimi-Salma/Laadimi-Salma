@@ -140,47 +140,48 @@ match candidates with opportunities, generate scores and rankings, and provide
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=Laadimi-Salma&show_icons=true&hide_border=true&theme=github-dark&include_all_commits=true&count_private=true">
     <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api?username=Laadimi-Salma&show_icons=true&hide_border=true&theme=github&include_all_commits=true&count_private=true">
-    <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=Laadimi-Salma&show_icons=true&hide_border=true&theme=github&include_all_commits=true&count_private=true">
-  </picture>
-  <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-streak-stats.demolab.com?user=Laadimi-Salma&hide_border=true&theme=github-dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-streak-stats.demolab.com?user=Laadimi-Salma&hide_border=true&theme=github">
-    <img alt="GitHub Streak" src="https://github-readme-streak-stats.demolab.com?user=Laadimi-Salma&hide_border=true&theme=github">
-  </picture>
-  <br/>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Laadimi-Salma&layout=compact&hide_border=true&theme=github-dark">
-    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Laadimi-Salma&layout=compact&hide_border=true&theme=github">
-    <img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laadimi-Salma&layout=compact&hide_border=true&theme=github">
-  </picture>
+    ## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Laadimi-Salma&show_icons=true&hide_border=true&theme=github_dark" alt="Salma's GitHub Stats" />
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.demolab.com?user=Laadimi-Salma&hide_border=true&theme=github-dark-blue" alt="Salma's GitHub Streak" />
+
+<br/><br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Laadimi-Salma&layout=compact&hide_border=true&theme=github_dark" alt="Salma's Top Languages" />
+
 </div>
 
 ---
 
-## Community / Knowledge Sharing
+## 🎓 Community & Knowledge Sharing
 
-Creating **beginner-friendly video tutorials** about:
+I create **beginner-friendly web development tutorials** to help newcomers build strong foundations in:
 
 ![HTML](https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=E34F26)
 ![CSS](https://img.shields.io/badge/CSS-0D1117?style=flat-square&logo=css3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
 
-Helping newcomers take their first steps in web development.
-
 ---
 
-## Connect With Me
+## 🤝 Connect With Me
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Laadimi--Salma-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Laadimi-Salma)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-salma--laadimi-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salma-laadimi)
-[![Email](https://img.shields.io/badge/Email-salmalaadimii%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:salmalaadimii@gmail.com)
-[![Location](https://img.shields.io/badge/Location-Casablanca%2C%20Morocco-2D333B?style=flat-square&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Casablanca,Morocco)
+[![GitHub](https://img.shields.io/badge/GitHub-Laadimi--Salma-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Laadimi-Salma)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Salma%20Laadimi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salma-laadimi)
+[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salmalaadimii@gmail.com)
 
 <br/>
 
-*Thanks for stopping by!*
+📍 **Casablanca, Morocco**
+
+<br/>
+
+*Thanks for visiting my profile!*
 
 </div>

@@ -1,168 +1,178 @@
-<div align="center">
+ <div align="center">
 
-# Hi 👋, I'm Salma Laadimi
+# Salma Laadimi
 
-### AI & Digital Development Graduate
+### AI & Full-Stack Developer · Automation Engineer
 
-**AI • Full-Stack Development • Automation • Intelligent Digital Solutions**
+**Building intelligent digital solutions that connect AI, software, and automation.**
 
-AI & Digital Development graduate with hands-on experience in web development,  
-applied AI, and workflow automation — building useful, intelligent digital solutions.
+I design and develop digital products that solve real-world problems — from modern web applications to AI-powered systems and automated workflows.
 
-<br/>
+[Portfolio](https://github.com/Laadimi-Salma/Mine-PortFolio) · [GitHub](https://github.com/Laadimi-Salma) · [LinkedIn](https://www.linkedin.com/in/salma-laadimi) · [Email](mailto:salmalaadimii@gmail.com)
 
-[![GitHub](https://img.shields.io/badge/GitHub-Laadimi--Salma-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Laadimi-Salma)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Salma%20Laadimi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salma-laadimi)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salmalaadimii@gmail.com)
-
-<br/>
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=650&lines=AI+%26+Digital+Development;Full-Stack+Development;AI+Automation;Building+Intelligent+Digital+Solutions" alt="Typing SVG" />
-
-<br/>
-
-📍 **Casablanca, Morocco**
+📍 Casablanca, Morocco · Open to professional opportunities
 
 </div>
 
 ---
 
-## 👩‍💻 About Me
+## About Me
 
-- 🎓 AI & Digital Development graduate based in **Casablanca, Morocco**
-- 🌐 Hands-on experience in **web** and **full-stack development**
-- 🤖 Practical experience with **AI** and **workflow automation**, including **n8n**
-- ☁️ Working with **Microsoft Azure** and applied AI projects
-- 🧩 Interested in building **useful, intelligent digital solutions**
-- 🎯 Open to opportunities in **AI, automation, and software development**
+I'm an AI & Digital Development graduate passionate about building practical, intelligent, and user-focused digital solutions.
+
+My work combines **full-stack development, applied artificial intelligence, and workflow automation** to transform ideas into functional applications.
+
+I enjoy exploring how technology can simplify complex processes, improve productivity, and create better digital experiences.
+
+- 🤖 **Applied AI:** Exploring intelligent applications, CV analysis, AI integration, and LLM-powered solutions.
+- 💻 **Full-Stack Development:** Building responsive interfaces and web applications.
+- ⚙️ **Automation:** Connecting applications, APIs, and business processes through automated workflows.
+- 📊 **Digital Transformation:** Developing solutions that support business operations and improve efficiency.
+- 🎓 **Knowledge Sharing:** Creating beginner-friendly web development learning resources.
+
+### My Vision
+
+To build intelligent software that bridges the gap between AI innovation and real-world needs — contributing to digital transformation through accessible, useful, and scalable technology.
 
 ---
 
-## 🛠️ Tech Stack
+## What I Build
 
-### Languages & Web
+<div align="center">
 
+| 🤖 Applied AI | 💻 Web Development | ⚙️ Intelligent Automation |
+|:---:|:---:|:---:|
+| AI-powered applications | Responsive web interfaces | Automated workflows |
+| CV analysis & matching | Full-stack platforms | API integrations |
+| Intelligent assistants | Interactive dashboards | Business process automation |
+
+</div>
+
+---
+
+## Featured Project
+
+### 🤖 AI-Powered Applicant Tracking System — AI-ATS
+
+An intelligent recruitment solution designed to support the hiring process by analyzing candidate CVs and job descriptions.
+
+**The goal:** Make candidate screening more structured, efficient, and understandable.
+
+**Core capabilities**
+
+- 📄 **CV Parsing** — Extract and structure candidate information.
+- 📝 **Job Analysis** — Identify relevant skills and job requirements.
+- 🔗 **Candidate Matching** — Compare candidate profiles with job opportunities.
+- 📊 **Fit Scoring** — Evaluate alignment between skills and requirements.
+- 🏆 **Candidate Ranking** — Organize candidates according to their relevance.
+- 💡 **Explainable Recommendations** — Make matching results easier to understand.
+
+**Focus areas:** Applied AI · Recruitment Technology · Data Processing · Intelligent Decision Support
+
+---
+
+## Selected Projects
+
+### 🏢 ERP & CRM Solutions
+[Explore Repository →](https://github.com/Laadimi-Salma/ERP-CRM)
+
+Exploring digital tools for business management, structured information, and operational workflows.
+
+### 🎓 AM2T — CIFA Platform
+[Explore Repository →](https://github.com/Laadimi-Salma/AM2T-Plateform-Cifa)
+
+A web platform project focused on organizing information and supporting digital learning processes.
+
+### 🌐 AM2T Platform
+[Explore Repository →](https://github.com/Laadimi-Salma/Plateform-am2t)
+
+Web development project focused on delivering a functional digital platform.
+
+### 🚘 LuxirityCar
+[Explore Repository →](https://github.com/Laadimi-Salma/LuxirityCar)
+
+A web project demonstrating interface development and digital product presentation.
+
+### ✨ Personal Portfolio
+[Explore Repository →](https://github.com/Laadimi-Salma/Mine-PortFolio)
+
+My personal space for presenting my development journey, skills, and projects.
+
+**[→ Explore All My Repositories](https://github.com/Laadimi-Salma?tab=repositories)**
+
+---
+
+## Tech Stack
+
+### Languages & Frontend
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
 
 ### AI & Automation
-
-![Artificial Intelligence](https://img.shields.io/badge/Artificial_Intelligence-0D1117?style=flat-square)
-![AI Automation](https://img.shields.io/badge/AI_Automation-0D1117?style=flat-square)
+![Artificial Intelligence](https://img.shields.io/badge/Applied_AI-6C47FF?style=flat-square)
+![LLM Applications](https://img.shields.io/badge/LLM_Applications-6C47FF?style=flat-square)
 ![n8n](https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white)
 ![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-0D1117?style=flat-square)
+![API Integration](https://img.shields.io/badge/API_Integration-0D1117?style=flat-square)
 
-### Cloud & Data
-
-![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
+### Backend, Data & Tools
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white)
-
-### Business & Development
-
-![Dolibarr ERP](https://img.shields.io/badge/Dolibarr_ERP-0D1117?style=flat-square)
-![UI/UX](https://img.shields.io/badge/UI%2FUX-0D1117?style=flat-square)
-![Full-Stack Development](https://img.shields.io/badge/Full--Stack_Development-0D1117?style=flat-square)
-
----
-
-## 🤖 Featured AI Project
-
-### AI-Powered Applicant Tracking System (AI-ATS)
-
-An intelligent recruitment solution designed to analyze CVs and job descriptions, match candidates with opportunities, generate scores and rankings, and provide **explainable recommendations**.
-
-| Core Capability | Purpose |
-| :--- | :--- |
-| 📄 **CV Parsing** | Extract and structure information from resumes |
-| 📝 **Job Description Analysis** | Analyze role requirements |
-| 🔗 **Candidate–Job Matching** | Align candidates with suitable opportunities |
-| 📊 **Scoring** | Evaluate candidate-job fit |
-| 🏆 **Ranking** | Prioritize candidates |
-| 💡 **Explainable Recommendations** | Provide understandable recommendations |
-
----
-
-## 🚀 Selected GitHub Work
-
-<div align="center">
-
-[![ERP-CRM](https://img.shields.io/badge/ERP--CRM-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Laadimi-Salma/ERP-CRM)
-[![CTPES](https://img.shields.io/badge/CTPES-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Laadimi-Salma/CTPES)
-
-[![AM2T Platform Cifa](https://img.shields.io/badge/AM2T%20Platform%20Cifa-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Laadimi-Salma/AM2T-Plateform-Cifa)
-[![AM2T Platform](https://img.shields.io/badge/AM2T%20Platform-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Laadimi-Salma/Plateform-am2t)
-
-[![Portfolio](https://img.shields.io/badge/My%20Portfolio-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Laadimi-Salma/Mine-PortFolio)
-[![LuxirityCar](https://img.shields.io/badge/LuxirityCar-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Laadimi-Salma/LuxirityCar)
-
-<br/>
-
-### [→ Explore All Repositories](https://github.com/Laadimi-Salma?tab=repositories)
-
-</div>
-
----
-
-## 💼 Experience
-
-| Period | Role | Company & Focus |
-| :--- | :--- | :--- |
-| **May 2026 – Present** | AI Automation | **HoussniJob** — Workflow automation with n8n and Dolibarr ERP |
-| **Oct 2025 – Jun 2026** | Digital Development Intern | **Prodig** — Responsive web apps, automation and chatbot solutions |
-| **Dec 2024 – Jul 2025** | Digital Development Assistant | **AlQods** — Digital systems and appointment processes |
-| **Mar 2024 – Apr 2024** | Digital Development Intern | **Ismaeland** — Backend contribution, maintenance and bug fixing |
-
----
-
-## 🏅 Certifications
-
-- ☁️ **Microsoft Certified: Azure AI Fundamentals**
-- ⚛️ **React Development** — Codecademy
-- 💻 **Frontend for Beginners** — Sololearn
-
----
-
-## 🎯 Current Focus
-
-![Applied AI](https://img.shields.io/badge/Applied_AI-0D1117?style=flat-square)
-![AI Automation](https://img.shields.io/badge/AI_Automation-0D1117?style=flat-square)
-![Workflow Automation](https://img.shields.io/badge/Workflow_Automation-0D1117?style=flat-square)
-![Full-Stack Development](https://img.shields.io/badge/Full--Stack_Development-0D1117?style=flat-square)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Microsoft Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)
-![Intelligent Digital Solutions](https://img.shields.io/badge/Intelligent_Digital_Solutions-0D1117?style=flat-square)
 
 ---
 
-## 🎓 Community & Knowledge Sharing
+## Professional Journey
 
-Creating **beginner-friendly web development tutorials** to help newcomers build strong foundations in:
+| Experience | Focus |
+|---|---|
+| **HoussniJob** | AI automation, workflow integration, and business tools |
+| **Prodig** | Web development, UI/UX, and digital solutions |
+| **AlQods** | Digital systems, data management, and appointment processes |
+| **Ismaeland** | Backend development, maintenance, and bug fixing |
 
-![HTML](https://img.shields.io/badge/HTML-0D1117?style=flat-square&logo=html5&logoColor=E34F26)
-![CSS](https://img.shields.io/badge/CSS-0D1117?style=flat-square&logo=css3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=F7DF1E)
+My professional journey combines software development with practical business needs, helping me approach technology from both a technical and user-focused perspective.
 
 ---
 
-## 🤝 Connect With Me
+## Learning & Development
+
+I'm continuously strengthening my knowledge in:
+
+- Applied AI and intelligent applications
+- AI agents and workflow orchestration
+- Full-stack application architecture
+- Data analysis and machine learning fundamentals
+- Cloud technologies and digital transformation
+
+I also enjoy sharing knowledge and helping beginners develop strong foundations in HTML, CSS, and JavaScript.
+
+---
+
+## Let's Connect
+
+I'm interested in opportunities and collaborations involving AI integration, full-stack development, workflow automation, and innovative digital products.
+
+Have an idea worth building? Let's connect.
 
 <div align="center">
 
 [![GitHub](https://img.shields.io/badge/GitHub-Laadimi--Salma-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Laadimi-Salma)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Salma%20Laadimi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salma-laadimi)
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salmalaadimii@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Salma_Laadimi-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/salma-laadimi)
+[![Email](https://img.shields.io/badge/Email-Contact_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:salmalaadimii@gmail.com)
 
-<br/><br/>
+**AI · Software · Automation · Impact**
 
-📍 **Casablanca, Morocco**
-
-<br/>
-
-**AI • Development • Automation**
-
-*Thanks for visiting my profile! 👋*
+*Thanks for visiting my profile!*
 
 </div>
